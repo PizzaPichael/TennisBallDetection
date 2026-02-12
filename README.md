@@ -1,8 +1,8 @@
 # KI_und_Big_Data_Projekt_SoSe25
 
-Dieses Repository beinhaltet die Projektarbeit für das Modul `Ki und Big Data` im Sommersemester 2025.
+Dieses Repository basiert auf einer Projektarbeit für das Modul `Ki und Big Data` im Sommersemester 2025.
 
-Die Anforderungen eins (Problemstellung) und zwei (Datenbeschaffung) sind hauptsächlich im schriftlichen typst beleg abgebildet.
+Die ursprünglichen Anforderungen eins (Problemstellung) und zwei (Datenbeschaffung) sind hauptsächlich im schriftlichen typst beleg abgebildet.
 Unter [./Belegarbeit](./Belegarbeit) ist eine PDF Version der prototypischen Belegarbeit zu finden, die diese beiden Anforderungen behandelt.
 Diese ist aber nicht vollständig ausgearbeitet und behandelt z.B. nicht die noch verbleibenden Anforderungen.
 Grund dafür ist, dass eine ordentliche Belegarbeit für das Projekt im Endeffekt doch nicht gefordert war.
